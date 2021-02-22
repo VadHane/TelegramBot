@@ -4,7 +4,7 @@ namespace TelegramBot
 {
     static class Settings
     {
-        static public readonly string TOKEN = "1690989074:AAHTr0_NfqXmtJYwPZ2LFP1PGOcQohrY6ao";
+        static public readonly string TOKEN = "";
         
         static public int[] AdminsList = {643559378, 849717955};
         
